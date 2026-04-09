@@ -25,7 +25,12 @@ SECRET_KEY = 'django-insecure-drw8l)a_xk%03rxb4!rok1e!mib4s4p@irzrf(+!zh$anex!7@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "localhost",
+    "143.107.52.31"
+]
+
+FORCE_SCRIPT_NAME = "/odp"
 
 
 # Application definition

@@ -1,4 +1,4 @@
-#!/home/nany/python_estudos/odp/venv/bin/python3
+#!/var/www/cane_regnet/ODP/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
